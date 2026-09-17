@@ -9,7 +9,7 @@ The ALU performs arithmetic and logical operations on 8-bit operands and uses co
 The ALU is constructed using 74xx-series TTL logic ICs along with passive components and a breadboard-based interconnection.
 
 IC / Component	    Function
-74LS283	            4-bit Binary Full Adder
+74LS283\n	            4-bit Binary Full Adder
 74LS86	            XOR Gate
 74LS08	            AND Gate
 74LS32	            OR Gate
