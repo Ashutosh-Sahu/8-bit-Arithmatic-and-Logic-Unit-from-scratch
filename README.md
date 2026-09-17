@@ -32,9 +32,9 @@ IC555               Clock Circuit (Astable, Monostable, Bistable Multivibrators)
 
 74LS00            	NAND Gate
 
-LEDs	              Output / status indication
+LEDs	              (Output / status indication)
 
-Resistors	          LED current limiting / pull-up or pull-down
+Resistors	          (LED current limiting / pull-up or pull-down)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
