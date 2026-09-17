@@ -12,6 +12,8 @@ The ALU is constructed using 74xx-series TTL logic ICs along with passive compon
 
 IC / Component      Function
 
+IC555               Clock Circuit (Astable, Monostable, Bistable Multivibrators)
+
 74LS283	            4-bit Binary Full Adder
 
 74LS86	            XOR Gate
@@ -35,4 +37,7 @@ LEDs	              Output / status indication
 Resistors	          LED current limiting / pull-up or pull-down
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-17 at 23 49 58 (1)" src="https://github.com/user-attachments/assets/9e10b3d8-4e69-413b-a415-514321871c4e" />
+
 
